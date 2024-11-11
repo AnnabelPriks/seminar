@@ -1,0 +1,14 @@
+table {border-collapse: collapse;}
+th {border: 1px solid rgb(0, 0, 0); padding: 9px; text-align: center; background-color: #f5edeb;}
+td{border: 1px solid rgb(0, 0, 0); padding: 9px; text-align: center; background-color: #f5edeb;}
+
+h1 { color:#703530; font-size: 55px; font-family: Stardom;}
+p {color:#423e3e; font-size: 20px; font-family: 'General Sans'; text-align: justify;}
+img {box-shadow: 5px 5px 10px #703530;}
+img{max-width: 100%}
+th {}
+body {background-color: #f7faf7;}
+
+.tervik {display: flex; gap: 20px;}
+.osa1 {flex: 1; padding: 10px;}
+.osa2 {flex: 2; padding: 10px;}
